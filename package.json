@@ -1,0 +1,23 @@
+{
+  "name": "polynomial-interpolator-newton-method",
+  "version": "1.0.0",
+  "description": "Program to automatically solve polynomial interpolation (newton method)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anderson-TI-Lim/Polynomial-Interpolator---Newton-Method.git"
+  },
+  "author": "Anderson Barbosa Soares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anderson-TI-Lim/Polynomial-Interpolator---Newton-Method/issues"
+  },
+  "homepage": "https://github.com/Anderson-TI-Lim/Polynomial-Interpolator---Newton-Method#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
