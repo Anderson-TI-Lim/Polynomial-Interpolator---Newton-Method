@@ -15,10 +15,17 @@ function getValueXAndValueFX() {
 }
 
 function start() {
-    drawInit() ,getValueXAndValueFX()
+    drawInit()
+    getValueXAndValueFX()
+
     const deltaAndPolynomial = interpoladorNewton(parameters)
-    console.log("---------------"), console.log("   Answers"), console.log("---------------")
-    console.log(`Deltas: `), console.log(deltaAndPolynomial.delta), console.log(`Polynomial: ${deltaAndPolynomial.polynomial}`)
+
+    console.log("---------------")
+    console.log("   Answers")
+    console.log("---------------")
+    console.log(`Deltas: `)
+    console.log(deltaAndPolynomial.delta)
+    console.log(`Polynomial: ${ deltaAndPolynomial.polynomial }`)
 }
 
 start()
