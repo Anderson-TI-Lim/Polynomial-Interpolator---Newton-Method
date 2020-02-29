@@ -12,7 +12,7 @@
  
  ---
  
- Enter the values requested.
+ *Enter the values requested.*
  
  Copy the value of the received polynomial and paste it into https://gamma.sympy.org/
  After that, look at the simplified polynomial and its graph.
