@@ -1,10 +1,16 @@
 # Polynomial-Interpolator-Newton-Method
- Program to automatically solve polynomial interpolation (newton method)
- 
-How to use:
 
- npm install (to install the dependencies)
- npm start (to start the program)
+ ##### Program to automatically solve polynomial interpolation (newton method)  
+ ###### Objetivo: #Desafio
+ 
+ ---
+ 
+##### How to use:
+
+ ```npm install``` (to install the dependencies)
+ ```npm start``` (to start the program)
+ 
+ ---
  
  enter the values requested.
  
