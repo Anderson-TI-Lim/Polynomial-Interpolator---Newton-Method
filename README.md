@@ -7,7 +7,7 @@
  
 ##### How to use:
 
- ```npm install``` (to install the dependencies)
+ ```npm install``` (to install the dependencies)  
  ```npm start``` (to start the program)
  
  ---
